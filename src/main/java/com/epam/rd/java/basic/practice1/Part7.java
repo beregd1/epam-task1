@@ -8,16 +8,16 @@ public class Part7 {
 
     public static int str2int(String number) {
        
-        //return 0;
+        return 0;
     }
 
     public static String int2str(int number) {
  
-        //return null;
+        return null;
     }
 
     public static String rightColumn(String number) {
       
-        //return null;
+        return null;
     }
 }
