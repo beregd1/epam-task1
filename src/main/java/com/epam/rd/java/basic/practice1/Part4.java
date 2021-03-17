@@ -10,7 +10,7 @@ public class Part4 {
        x = y;
         y = z;
     }
-     System.out.println(x);    
+     System.out.print(x);    
    }
 
 }
